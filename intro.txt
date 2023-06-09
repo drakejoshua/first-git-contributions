@@ -1,0 +1,7 @@
+First Git Contributions: 
+
+Embarking on my first remote project on GitHub, 
+I eagerly step into the world of collaborative development. 
+With great enthusiasm and a thirst for learning, 
+I make my initial Git contributions, 
+laying the foundation for a journey of code creation and collaboration.
